@@ -1,0 +1,38 @@
+[
+  {
+    "idProduct": 1,
+    "title": "title1",
+    "size": 100,
+    "maxGuests": 10,
+    "petsAuthorized": false,
+    "dailyrate": 1000,
+    "address": "add1",
+    "addressComplement": "",
+    "zipCode": 75001,
+    "idEvaluation": 1
+  },
+  {
+    "idProduct": 2,
+    "title": "title2",
+    "size": 120,
+    "maxGuests": 12,
+    "petsAuthorized": false,
+    "dailyrate": 1400,
+    "address": "add2",
+    "addressComplement": "",
+    "zipCode": 75002,
+    "idEvaluation": 2
+  },
+  {
+    "idProduct": 3,
+    "title": "title3",
+    "size": 150,
+    "maxGuests": 12,
+    "petsAuthorized": false,
+    "dailyrate": 2000,
+    "address": "add3",
+    "addressComplement": "",
+    "zipCode": 75002,
+    "idEvaluation": 3
+  }
+]
